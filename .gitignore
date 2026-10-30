@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/train/
+data/val/
+data/test/
+
+# Model files
+models/
+*.h5
+*.keras
+*.onnx
+*.pt
+*.pth
+
+# Generated outputs
+outputs/
+
+# IDE
+.vscode/
